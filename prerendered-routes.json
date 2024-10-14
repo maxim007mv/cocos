@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/foto",
+    "/her2",
+    "/news",
+    "/regist",
+    "/sasut",
+    "/state",
+    "/test"
+  ]
+}
